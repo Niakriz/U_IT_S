@@ -1,4 +1,4 @@
-# Lesson IT_SCHOOL
+# Ukrainian IT_SCHOOL
 
 #Lesson
 
@@ -22,6 +22,9 @@ HomeTask3
 	
 	Task4
 
+------------------------------------------------------
+
 (c) by Nia
+
 Directet by Stanislav Orlov
 
