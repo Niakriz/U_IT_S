@@ -24,12 +24,29 @@ public class Task1 {
                     a = b;
                     b = c;
 
-                    System.out.println(mass[i]);
+
                 }
 
 
             }
+
         }
+
+        for (int i = 0; i < mass.length - 1; i++){
+            for(int j = 0; j < mass.length - i - 1; j++){
+
+                if(mass[j] > mass[j + 1]){
+                    int temp = mass[j];
+                    mass[j] = mass[j + 1];
+                    mass[j + 1] = temp;
+
+                }
+            }
+
+        }
+        for (int i = 0; i < mass.length; i++){
+            System.out.print(mass[i]+" " );
+        } System.out.println();
 
     }
 }
