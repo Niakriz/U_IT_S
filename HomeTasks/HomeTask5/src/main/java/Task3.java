@@ -25,7 +25,7 @@ public class Task3 {
             mass[i] = new int[i+1];
             for (int j = mass[i].length -1; j >=0;j--){
                 if(j==mass[i].length-1) {
-                    int x = mass.length - mass[i].length; //длинана массива - длинна строки
+                    int x = mass.length - mass[i].length; //РґР»РёРЅР°РЅР° РјР°СЃСЃРёРІР° - РґР»РёРЅРЅР° СЃС‚СЂРѕРєРё
                     for (int t = 0; t < x; t++) {
                         System.out.print(" ");
                     }
