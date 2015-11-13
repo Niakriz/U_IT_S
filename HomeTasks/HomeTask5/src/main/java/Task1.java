@@ -24,7 +24,6 @@ public class Task1 {
                     a = b;
                     b = c;
 
-
                 }
 
 
