@@ -8,11 +8,11 @@ public class Child extends Parent {
 
     }
     {
-        System.out.println("Child.Static2");
+        System.out.println("Child.notStatic");
     }
     Child(){
 
-        System.out.println("Child.Static2");
+        System.out.println("Child()");
     }
 
 }

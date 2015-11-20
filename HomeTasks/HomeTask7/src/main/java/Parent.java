@@ -6,10 +6,10 @@ public class Parent {
         System.out.println("Parent.Static");
     }
     {
-        System.out.println("Parents.Static2");
+        System.out.println("Parents.notStatic");
     }
     Parent(){
-        System.out.println("Parents.Static3");
+        System.out.println("Parents()");
 
     }
 }
