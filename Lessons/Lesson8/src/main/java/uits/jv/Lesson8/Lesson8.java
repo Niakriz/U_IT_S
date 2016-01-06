@@ -1,6 +1,10 @@
 package uits.jv.Lesson8;
 
-import uits.jv.Shapes.*;
+import uits.jv.Shapes.Circle;
+import uits.jv.Shapes.Regtangle;
+import uits.jv.Shapes.Shape;
+import uits.jv.Shapes.Trengle;
+
 /**
  * Created by Nia on 20.11.2015.
  */

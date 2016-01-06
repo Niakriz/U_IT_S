@@ -26,13 +26,15 @@ public class Task2 {
         /** Выбераем случайное число из диапазона */
 
         int random1 = (int)(Math.random()*dataOneLength);
+        /**
+         * Использовать если разная длинна массива
         int random2 = (int)(Math.random()*dataTwoLength);
         int random3 = (int)(Math.random()*dataThreeLength);
         int random4 = (int)(Math.random()*dataFourLength);
-
+        */
         /** Собираем фразу с учетом случайных чисел */
 
-        String PhaseGenerator = wordDataOne[random1]+" "+wordDataTwo[random2]+" "+wordDataThree[random3]+" "+wordDataFour[random4];
+        String PhaseGenerator = wordDataOne[random1]+" "+wordDataTwo[random1]+" "+wordDataThree[random1]+" "+wordDataFour[random1];
 
         /** Вывод фразы */
 

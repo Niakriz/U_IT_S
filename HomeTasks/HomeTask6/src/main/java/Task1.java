@@ -5,8 +5,7 @@ public class Task1 {
 
     static public void main(String[] args){
 
-       int[][] mass = new int[6][6];
-
+       int[][] mass = new int[10][10];
 
 
         for (int i = 0; i<mass.length;i++){
