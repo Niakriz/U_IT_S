@@ -3,19 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package uits.jv.lesson17;
+package uits.jv.lesson19;
 
 /**
  *
  * @author Nia
  */
-public class App {
-    public static void main(String[] args) {
-        
-        DocumentExample d = new DocumentExample();
-        
-        d.createDocument();
-    }
-    
+public class app {
     
 }

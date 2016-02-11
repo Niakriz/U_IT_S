@@ -58,3 +58,4 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+/Lessons/Lesson17/target/
